@@ -1,0 +1,36 @@
+{
+    "apps": [
+        {
+            "script": "nowatwork-srv_linux_amd64",
+            "watch": "nowatwork-srv_linux_amd64",
+            "env": {
+                "PORT": "6000",
+                "APP_ENV": "prod"
+            }
+        },
+        {
+            "script": "nowatwork-srv_linux_amd64",
+            "watch": "nowatwork-srv_linux_amd64",
+            "env": {
+                "PORT": "6001",
+                "APP_ENV": "prod"
+            }
+        },
+        {
+            "script": "nowatwork-srv_linux_amd64",
+            "watch": "nowatwork-srv_linux_amd64",
+            "env": {
+                "PORT": "6002",
+                "APP_ENV": "prod"
+            }
+        },
+        {
+            "script": "nowatwork-srv_linux_amd64",
+            "watch": "nowatwork-srv_linux_amd64",
+            "env": {
+                "PORT": "6003",
+                "APP_ENV": "prod"
+            }
+        }
+    ]
+}

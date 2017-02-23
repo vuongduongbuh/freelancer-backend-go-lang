@@ -1,0 +1,11 @@
+{
+    "apps": [
+        {
+            "script": "nowatwork-srv_linux_amd64",
+            "watch": "nowatwork-srv_linux_amd64",
+            "env": {
+                "PORT": "4001"
+            }
+        }
+    ]
+}

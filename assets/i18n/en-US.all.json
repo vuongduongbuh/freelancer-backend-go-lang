@@ -1,0 +1,6 @@
+[
+    {
+        "id": "module_is_draft",
+        "translation": "The specified module was found but it is still in the draft mode. Modules have to be published before one can use them inside a survey."
+    }
+]
